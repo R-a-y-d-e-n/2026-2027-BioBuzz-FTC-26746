@@ -1,6 +1,6 @@
 package org.firstinspires.ftc.teamcode.Biobuzz.Rayden.manual;
 
-import static org.firstinspires.ftc.teamcode.Decode.MathUtils.mathFuncs.*;
+import static org.firstinspires.ftc.teamcode.Biobuzz.Rayden.MathUtils.mathFuncs.*;
 
 import com.bylazar.configurables.annotations.Configurable;
 import com.pedropathing.follower.Follower;
@@ -11,10 +11,10 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.hardware.Servo;
 
-import org.firstinspires.ftc.teamcode.Decode.Carousel;
-import org.firstinspires.ftc.teamcode.Decode.Launcher;
-import org.firstinspires.ftc.teamcode.Decode.MathUtils.vector;
-import org.firstinspires.ftc.teamcode.Decode.mecanumConstants;
+import org.firstinspires.ftc.teamcode.Biobuzz.Rayden.Carousel;
+import org.firstinspires.ftc.teamcode.Biobuzz.Rayden.Launcher;
+import org.firstinspires.ftc.teamcode.Biobuzz.Rayden.MathUtils.vector;
+import org.firstinspires.ftc.teamcode.Biobuzz.Rayden.mecanumConstants;
 
 @Configurable
 @TeleOp

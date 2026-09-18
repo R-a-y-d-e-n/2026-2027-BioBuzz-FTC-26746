@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode.Biobuzz.Jordan;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.HardwareMap;
 
-import org.firstinspires.ftc.teamcode.Decode.PIDController;
+import org.firstinspires.ftc.teamcode.Biobuzz.Jordan.PIDController;
 
 public class Launcher {
     public double targetSpeed = 0,
